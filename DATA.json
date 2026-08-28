@@ -1,0 +1,21 @@
+{
+  "name": "empaquetar-deb",
+  "version": "1.0",
+  "apt": [],
+  "pacman": [],
+  "dnf": [],
+  "casata": [],
+  "pip": [],
+  "size": "357 B",
+  "description": "Empaquetar Deb: para crear tu propio .deb fácilmente.",
+  "usage": "Ejecuta 'empaquetar-deb CARPETA'. Mira /usr/share/doc/empaquetar-deb/example/ para ver un ejemplo de .deb para que lo modifiques.",
+
+  "project": "Lynds Utils",
+  "is_open_source": true,
+  "source_code": "https://github.com/LyndsCorp/Empaquetar-Deb",
+  "license": "The-Unlicense",
+  "origin": "Lynds Corp.",
+  "developer": "David Baña Szymaniak",
+  "copyright_title": "David Baña Szymaniak",
+  "copyright_year": 2026
+}

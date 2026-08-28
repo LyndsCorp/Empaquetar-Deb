@@ -1,0 +1,10 @@
+{
+  "links": [
+    {
+      "file": "empaquetar-deb.py",
+      "dest": "/usr/bin",
+      "name": "empaquetar-deb",
+      "executable": true
+    }
+  ]
+}
